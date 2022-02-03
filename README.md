@@ -3,7 +3,7 @@ python implementation of a Naïve Bayesian Network - in an image segmentation ex
 
 This is an example code for Naive Bayesian implemented in python (Jupyter notebook).
 This simple program was designed to perform image segmentation.
-
+<h3>Dataset</h3>
 It needs a training image (i.e. pyramid2.jpeg), a labelled image (pyramid2_label.jpeg), and a test image (pyramid1.jpeg). The 3 example images are also included in this repository.
 
 As you can see in the labelled image, areas of the image are labelled with 3 different colors (namely Red, Green Blue).
